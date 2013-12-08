@@ -2,9 +2,6 @@
  sphinxjp.themes.tinkerturquoise
 =================================
 
-Some famous blogging tool style for Tinkerer
-
-
 Output sample
 =============
 :output: http://naoiwata.bitbucket.org/demo/tinkerturquoise/
@@ -12,7 +9,7 @@ Output sample
 
 Feature
 =======
-* provide tinkerer blog theme like some famous blogging tool
+* A single column blogging theme tool for Tinkerer, based on turquoise color.
 
 
 Installation
@@ -20,6 +17,11 @@ Installation
 Make environment with easy_install::
 
    $ easy_install sphinxjp.themes.tinkerturquoise
+
+
+Make environment with pip::
+
+   $ pip sphinxjp.themes.tinkerturquoise
 
 
 setup conf.py with::
