@@ -4,8 +4,8 @@
 
 Output sample
 =============
-:output: http://naoiwata.bitbucket.org/demo/tinkerturquoise/
 
+:output: http://naoiwata.bitbucket.org/demo/tinkerturquoise/
 
 Feature
 =======
@@ -17,6 +17,11 @@ Installation
 Make environment with easy_install::
 
    $ easy_install sphinxjp.themes.tinkerturquoise
+
+
+Make environment with pip:
+
+   $ pip install sphinxjp.themes.tinkerturquoise
 
 
 setup conf.py with::

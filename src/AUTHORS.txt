@@ -3,4 +3,5 @@ AUTHORS
 
 Sphinx template, css, packaging
 -------------------------------
-* nao iwata <naoiwata.info at gmail.com> Sphinx-users.jp
+
+* nao iwata <orrrizzle{at}gmail.com>

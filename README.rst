@@ -21,7 +21,7 @@ Make environment with easy_install::
 
 Make environment with pip::
 
-   $ pip sphinxjp.themes.tinkerturquoise
+   $ pip install sphinxjp.themes.tinkerturquoise
 
 
 setup conf.py with::
