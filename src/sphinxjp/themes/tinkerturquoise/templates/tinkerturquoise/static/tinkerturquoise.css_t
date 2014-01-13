@@ -89,6 +89,7 @@ header h1 a, header h1 a:hover{
     font-family: "Fjalla One","Georgia","Helvetica Neue", Arial, sans-serif;
     border: none;
     text-decoration: none;
+    line-height: 1.5em;
 }
 
 header h2 {
@@ -96,6 +97,8 @@ header h2 {
     font-size: 18px;
     color: #aaa;
 }
+
+
 
 /* Page navigation */
 nav {
@@ -178,6 +181,7 @@ article h2 {
     margin: 30px 0 10px 0;
     border-bottom: 1px solid #eee;
     padding: 0 0 8px 0;
+    line-height: 1.5em;
 }
 
 article h3 {
@@ -186,6 +190,7 @@ article h3 {
     margin: 30px 0 10px 0;
     border-bottom: 1px solid #eee;
     padding: 0 0 5px 0;
+    line-height: 1.5em;
 }
 
 article h4, article h5, article h6, article strong {
@@ -193,6 +198,7 @@ article h4, article h5, article h6, article strong {
     font-family: 'Fjalla One' !important;
     margin: 30px 0 20px 0;
     display: block;
+    line-height: 1.5em;
 }
 
 div.admonition {
@@ -373,6 +379,21 @@ footer {
     display: none;
 }
 
-.sp nav ul{
-    padding-left: 30px;
+.sp nav{
+    border: none;
+}
+
+.sp header h1{
+    margin: 0 0 30px 0;
+}
+
+.sp .highlight span{
+    line-height: 1.5em;
+    font-size: 10px;
+    margin: 0 0 10px 0;
+}
+
+.sp article h1, .sp article h2{
+    font-size: 20px;
+    line-height: 1.5em;
 }
