@@ -39,14 +39,15 @@ Requirement
 ===========
 Libraries:
 
-* Python 2.4 or later (not support 3.x)
+* Python 2.4 or later.
 * Sphinx 1.0.x or later.
 * Tinkerer 1.0.x or later.
 
 
 Browsers:
 
-* Safari
+* Safari on iOS, Mac OS
+* Android Browser
 * Chrome
 * Firefox 10 or later
 

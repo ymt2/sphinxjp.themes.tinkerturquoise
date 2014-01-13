@@ -1,6 +1,10 @@
 HISTORY
 =======
 
+0.2.0 (2014.01.13)
+------------------
+* Optimized layout for smartphones and tablets
+
 0.1.1 (2014.01.07)
 ------------------
 * Modify information

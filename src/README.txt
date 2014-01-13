@@ -19,7 +19,7 @@ Make environment with easy_install::
    $ easy_install sphinxjp.themes.tinkerturquoise
 
 
-Make environment with pip:
+Make environment with pip::
 
    $ pip install sphinxjp.themes.tinkerturquoise
 
@@ -39,14 +39,15 @@ Requirement
 ===========
 Libraries:
 
-* Python 2.4 or later (not support 3.x)
-* Sphinx 1.0.x or later.
-* Tinkerer 1.0.x or later.
-
+* Safari on iOS, Mac OS
+* Android Browser
+* Chrome
+* Firefox 10 or later
 
 Browsers:
 
-* Safari
+* Safari on iOS, Mac OS
+* Android Browser
 * Chrome
 * Firefox 10 or later
 
