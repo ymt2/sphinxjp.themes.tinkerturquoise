@@ -172,7 +172,7 @@ div.timestamp {
 article h1, article h1 a, .main-container article h1 {
     color: #333 !important;
     font-family: 'Fjalla One';
-    margin: 0;
+    margin: 0 0 20px 0;
 }
 
 article h2 {
@@ -381,6 +381,8 @@ footer {
 
 .sp nav{
     border: none;
+    width: 600px;
+    margin-left:20px;
 }
 
 .sp header h1{
@@ -393,7 +395,7 @@ footer {
     margin: 0 0 10px 0;
 }
 
-.sp article h1, .sp article h2{
+.sp article h1, .sp article h2, .sp article h3, .sp article h4{
     font-size: 20px;
     line-height: 1.5em;
 }

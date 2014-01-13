@@ -97,10 +97,8 @@
       };
 
       FixZoom.prototype.set_ua = function() {
-        if (this.iphone || this.ipod || this.android) {
+        if (this.iphone || this.android || this.ipad || this.ipod) {
           document.body.className += ' sp';
-        } else if (this.ipad) {
-          document.body.className += ' ipad';
         } else {
           document.body.className += ' pc';
         }
