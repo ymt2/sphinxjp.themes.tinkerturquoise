@@ -399,3 +399,8 @@ footer {
     font-size: 20px;
     line-height: 1.5em;
 }
+
+.sp #disqus_thread {
+    width: 580px;
+    overflow: hidden;
+}
