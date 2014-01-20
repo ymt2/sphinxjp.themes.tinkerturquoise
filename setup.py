@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 import os, sys
 
-version = '0.2.16'
+version = '0.2.17'
 long_description = '\n'.join([
         open(os.path.join("src", "README.txt")).read(),
         open(os.path.join("src", "AUTHORS.txt")).read(),
