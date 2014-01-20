@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 import os, sys
 
-version = '0.2.15'
+version = '0.2.16'
 long_description = '\n'.join([
         open(os.path.join("src", "README.txt")).read(),
         open(os.path.join("src", "AUTHORS.txt")).read(),
@@ -21,7 +21,7 @@ classifiers = [
 setup(
     name='sphinxjp.themes.tinkerturquoise',
     version=version,
-    description='A Two column blogging theme tool for Tinkerer, based on turquoise color.',
+    description='Two column blogging theme tool for Tinkerer, based on turquoise color.',
     long_description=long_description,
     classifiers=classifiers,
     keywords=['tinkerer', 'sphinxjp', 'reStructuredText', 'theme'],

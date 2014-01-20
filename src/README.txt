@@ -9,7 +9,7 @@ Output sample
 
 Feature
 =======
-A single column blogging theme tool for Tinkerer, based on turquoise color.
+Two column blogging theme tool for Tinkerer, based on turquoise color.
 
 
 Installation
